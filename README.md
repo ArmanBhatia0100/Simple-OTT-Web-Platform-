@@ -1,12 +1,8 @@
-# Frontend Mentor - Entertainment web app
-
-![Design preview for the Entertainment web app coding challenge](./preview.jpg)
+# Entertainment web app
 
 ## Welcome! 👋
 
-Thanks for purchasing this premium Frontend Mentor coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
+This challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
 
 **To do this challenge, you need a strong understanding of HTML, CSS, and JavaScript.**
 

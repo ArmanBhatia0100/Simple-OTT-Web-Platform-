@@ -1,13 +1,7 @@
-It looks like you’ve shared a detailed project brief for an "Entertainment Web App" challenge, likely from Frontend Mentor or a similar platform. Since your previous questions were about creating a Git README and adding images (`netflixcopy.png` and `netflixcopy2.png`), I’ll assume you want me to craft a custom `README.md` for this specific project, incorporating an "Images" section with those image names. I’ll adapt the provided template into an innovative README that reflects the project and includes your requested images.
-
-Below is the custom `README.md`:
-
----
-
 # Entertainment Web App 🎬
 
 ![Project Banner](netflixcopy.png)
-![Project Banner](netflixcopy2.png)
+
 Welcome to my **Entertainment Web App**! This project is a fully responsive web application designed to browse movies, TV series, and bookmarked shows, built as part of a coding challenge to sharpen my skills in HTML, CSS, and JavaScript. Inspired by real-world streaming platforms, it’s a portfolio-worthy piece that showcases both design fidelity and functional interactivity.
 
 ---

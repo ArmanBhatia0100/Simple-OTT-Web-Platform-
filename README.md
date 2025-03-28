@@ -40,7 +40,6 @@ Check out some screenshots of the app in action:
 
 | Description            | Screenshot                           |
 |------------------------|--------------------------------------|
-| Homepage Layout        | ![Homepage](netflixcopy.png)  |
 | Movie Details View     | ![Movie View](netflixcopy2.png) |
 
 *Images are stored in the `images/` folder of this repository.*
